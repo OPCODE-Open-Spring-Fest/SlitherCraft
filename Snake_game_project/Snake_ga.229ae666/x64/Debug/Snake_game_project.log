@@ -1,0 +1,42 @@
+﻿  GamePlay.cpp
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(41,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(41,64): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(41,64): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(41,64): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(41,64): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(45,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(45,61): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(45,61): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(45,61): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(45,61): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,95): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,95): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,95): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,95): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,57): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,57): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,57): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(48,57): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(144,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\GamePlay.cpp(144,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MainMenu.cpp
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(26,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(26,62): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(26,62): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(26,62): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(26,62): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(34,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(34,63): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(34,63): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(34,63): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(34,63): warning C4244:         ]
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(43,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(43,63): warning C4244:         with
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(43,63): warning C4244:         [
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(43,63): warning C4244:             T=unsigned int
+C:\Users\sangh\source\repos\Snake_game_project\MainMenu.cpp(43,63): warning C4244:         ]
+  Generating Code...
+  Snake_game_project.vcxproj -> C:\Users\sangh\source\repos\Snake_game_project\x64\Debug\Snake_game_project.exe
