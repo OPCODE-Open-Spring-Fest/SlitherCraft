@@ -23,10 +23,10 @@ GamePlay::~GamePlay()
 
 void GamePlay::Init()
 {
-    m_context->m_assets->AddTexture(GRASS, "grass.png", true);
-    m_context->m_assets->AddTexture(FOOD, "food.png");
-    m_context->m_assets->AddTexture(WALL, "wall.png", true);
-    m_context->m_assets->AddTexture(SNAKE, "snake.png");
+    m_context->m_assets->AddTexture(GRASS, "grass_Updated.png", true);
+    m_context->m_assets->AddTexture(FOOD, "food_Updated.png");
+    m_context->m_assets->AddTexture(WALL, "wall_Updated.png", true);
+    m_context->m_assets->AddTexture(SNAKE, "snake_Updated.png");
 
     m_grass.setTexture(m_context->m_assets->GetTexture(GRASS));
     m_grass.setTextureRect(m_context->m_window->getViewport(m_context->m_window->getDefaultView()));
